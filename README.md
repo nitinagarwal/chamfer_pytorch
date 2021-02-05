@@ -1,4 +1,4 @@
-# Pytorch implementation of the chamfer distance borrowed from  Thibault Groueix.
+# Pytorch implementation of the chamfer distance borrowed from Thibault GROUEIX.
 
 Include a *CUDA version*, and a *python version* with pytorch ops.
 
